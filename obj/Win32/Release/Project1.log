@@ -1,0 +1,18 @@
+﻿  main.cpp
+  ofApp.cpp
+c:\users\willim15\downloads\of_v0.10.1_vs2017_release\apps\myapps\project1\src\ofapp.cpp(5): warning C4996: 'ofSoundPlayer::loadSound': Use load
+  c:\users\willim15\downloads\of_v0.10.1_vs2017_release\libs\openframeworks\sound\ofsoundplayer.h(86): note: see declaration of 'ofSoundPlayer::loadSound'
+     Creating library bin\Project1.lib and object bin\Project1.exp
+  Generating code
+  0 of 621 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\apps\myApps\Project1\bin\Project1.exe
+  
+  	                   2	C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\apps\myApps\Project1\bin\FreeImage.dll
+  
+  	                   1	C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\apps\myApps\Project1\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\willim15\Downloads\of_v0.10.1_vs2017_release\apps\myApps\Project1\bin\fmodexL.dll
